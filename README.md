@@ -9,17 +9,17 @@ The application is built using a combination of Python's standard libraries and 
 
 *   **Python**: The core programming language.
     
-*   **yfinance**: A powerful and reliable library for fetching real-time and historical stock data from Yahoo Finance. This is the primary method for retrieving financial information.
+*   **yfinance**: This is the primary method for retrieving financial information.
     
-*   **pandas**: A data analysis and manipulation library used for efficient handling of structured data, particularly for reading and writing CSV files.
+*   **pandas**:Used particularly for reading and writing CSV files.
     
-*   **requests and BeautifulSoup**: These libraries are used for web scraping, providing a way to retrieve and parse HTML content from websites. While the code relies more heavily on yfinance, these libraries demonstrate the use of web scraping techniques.
+*   **requests and BeautifulSoup**: These libraries are used for web scraping, While the code relies more heavily on yfinance, these libraries demonstrate the use of web scraping techniques.
     
-*   **csv**: A built-in Python module for working with comma-separated value files.
+*   **csv**
     
-*   **datetime**: A built-in Python module for handling dates and times, used for timestamping data.
+*   **datetime**
     
-*   **os**: A built-in Python module for interacting with the operating system, used to manage files.
+*   **os**: used to manage files.
     
 
 ### Key Features
